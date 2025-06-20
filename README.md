@@ -55,8 +55,8 @@ To run this project locally, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/username/story-app.git
-cd story-app
+git clone https://github.com/DeaPutriAnthoni/Story-App.git
+cd Story-App
 ```
 ### 2. Install Depedencies
 ```bash
